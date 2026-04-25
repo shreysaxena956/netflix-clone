@@ -22,3 +22,4 @@ const Navbar = ({ theme, setTheme, user }) => {
 }
 
 export default Navbar
+
